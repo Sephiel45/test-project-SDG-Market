@@ -19,7 +19,7 @@ Zarina is a 39 old woman. She is from Pakistan. She has basic education, no prof
 
 ![SDG](https://github.com/alinkaZ/SiDo/blob/master/sdg.png)
 
-<img src="https://github.com/alinkaZ/SiDo/blob/master/sdg.png"></img>
+<img src="https://media.gettyimages.com/photos/stack-of-books-picture-id157482029?s=612x612">
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
