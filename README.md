@@ -6,7 +6,8 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 # Intro
 
 - [Problem](#Problem)
-<a href="https://sephiel45.github.io/test-project-SDG-Market/#Problem">Problem</a>
+
+-<a href="https://sephiel45.github.io/test-project-SDG-Market/#Problem">Problem</a>
 
 - [Solution](#Solution)
     - [How](#How)
@@ -24,7 +25,7 @@ Zarina is a 39 old woman. She is from Pakistan. She has basic education, no prof
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
-# Solution
+# <h2 id="solution"> Solution</h2>
 We want to create an application that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
     
 ### How
