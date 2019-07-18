@@ -18,6 +18,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
 
 ![SDG](https://github.com/alinkaZ/SiDo/blob/master/sdg.png)
+<img src="https://media.gettyimages.com/photos/stack-of-books-picture-id157482029?s=612x612"></img>
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
